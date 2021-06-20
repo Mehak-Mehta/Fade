@@ -1,2 +1,2 @@
 # Lost
-Finds you finds in your project
+Finds you files in your project
